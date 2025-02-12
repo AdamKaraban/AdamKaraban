@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @AdamKaraban
 - 👀 I’m interested in bouldering, basketball, and frisbee golfing.
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on anything that helps me develop myself as a data scientist
 - 📫 How to reach me, adamjkaraban@gmail.com
